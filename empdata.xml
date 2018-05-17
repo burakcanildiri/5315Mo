@@ -2,50 +2,50 @@
   <employees>
     <data>
       <name>Michael Jordan</name>
-      <position>Shooting Guard</position>
+      <designation>Shooting Guard</designation>
       <salary>$30,000,000</salary>
-      <draft_date>1984/06/19</draft_date>
-      <city>Chicago</city>
+      <joining_date>1984/06/19</joining_date>
+      <office>Chicago</office>
       <extension>8422</extension>
     </data>
     <data>
       <name>LeBron James</name>
-      <position>Small Forward</position>
+      <designation>Small Forward</designation>
       <salary>$25,000,000</salary>
-      <draft_date>2003/06/26</draft_date>
-      <city>Cleveland</city>
+      <joining_date>2003/06/26</joining_date>
+      <office>Cleveland</office>
       <extension>4804</extension>
     </data>
     <data>
       <name>Stephen Curry</name>
-      <position>Point Guard</position>
+      <designation>Point Guard</designation>
       <salary>$23,000,000</salary>
-      <draft_date>2009/06/25</draft_date>
-      <city>San Francisco</city>
+      <joining_date>2009/06/25</joining_date>
+      <office>San Francisco</office>
       <extension>1562</extension>
     </data>
     <data>
       <name>James Harden</name>
-      <position>Point Guard</position>
+      <designation>Point Guard</designation>
       <salary>$18,000,000</salary>
-      <draft_date>2009/06/25</draft_date>
-      <city>Oklahoma City</city>
+      <joining_date>2009/06/25</joining_date>
+      <office>Oklahoma City</office>
       <extension>5407</extension>
     </data>
     <data>
       <name>Shaquille O'Neal</name>
-      <position>Center</position>
+      <designation>Center</designation>
       <salary>$27,000,000</salary>
-      <draft_date>1992/06/24</draft_date>
-      <city>Orlando</city>
+      <joining_date>1992/06/24</joining_date>
+      <office>Orlando</office>
       <extension>8330</extension>
     </data>
     <data>
       <name>Kobe Bryant</name>
-      <position>Shooting Guard</position>
+      <designation>Shooting Guard</designation>
       <salary>$28,000,000</salary>
-      <draft_date>1996/06/26</draft_date>
-      <city>Los Angeles</city>
+      <joining_date>1996/06/26</joining_date>
+      <office>Los Angeles</office>
       <extension>6373</extension>
     </data>
   </employees>
