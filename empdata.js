@@ -44,7 +44,7 @@
       "name": "Kobe Bryant",
       "designation": "Shooting Guard",
       "salary": "$28,000,000",
-      "joining_dates": "1996/06/26",
+      "joining_date": "1996/06/26",
       "office": "Los Angeles",
       "extension": "6373"
     },
