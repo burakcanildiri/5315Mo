@@ -1,123 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
+      <name>Michael Jordan</name>
+      <position>Shooting Guard</position>
+      <salary>$30,000,000</salary>
+      <draft_date>1984/06/19</draft_date>
+      <city>Chicago</city>
       <extension>8422</extension>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
+      <name>LeBron James</name>
+      <position>Small Forward</position>
+      <salary>$25,000,000</salary>
+      <draft_date>2003/06/26</draft_date>
+      <city>Cleveland</city>
       <extension>4804</extension>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
+      <name>Stephen Curry</name>
+      <position>Point Guard</position>
+      <salary>$23,000,000</salary>
+      <draft_date>2009/06/25</draft_date>
+      <city>San Francisco</city>
       <extension>1562</extension>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
+      <name>James Harden</name>
+      <position>Point Guard</position>
+      <salary>$18,000,000</salary>
+      <draft_date>2009/06/25</draft_date>
+      <city>Oklahoma City</city>
       <extension>5407</extension>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
+      <name>Shaquille O'Neal</name>
+      <position>Center</position>
+      <salary>$27,000,000</salary>
+      <draft_date>1992/06/24</draft_date>
+      <city>Orlando</city>
       <extension>8330</extension>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
+      <name>Kobe Bryant</name>
+      <position>Shooting Guard</position>
+      <salary>$28,000,000</salary>
+      <draft_date>1996/06/26</draft_date>
+      <city>Los Angeles</city>
       <extension>6373</extension>
-    </data>
-    <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
-    </data>
-    <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
-    </data>
-    <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
-    </data>
-    <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
-    </data>
-    <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
-    </data>
-    <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
-    </data>
-    <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
-    </data>
-    <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
-    </data>
-    <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
     </data>
   </employees>
