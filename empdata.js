@@ -47,6 +47,6 @@
       "joining_date": "1996/06/26",
       "office": "Los Angeles",
       "extension": "6373"
-    },
+    }
   ]
 }
